@@ -2,8 +2,8 @@
 
 ## Aim: To detect real time object detection using python and yolov4.
 
-### Reg.No: 212223240069
-### Name: P KEERTHANA
+### Reg.No: 212223240114
+### Name: JESHWANTH KUMAR P
 
 ## Procedure:
 ### Step1: Install Required Libraries
