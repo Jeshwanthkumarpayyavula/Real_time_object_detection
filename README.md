@@ -2,9 +2,17 @@
 
 ## Aim: To detect real time object detection using python and yolov4.
 
-## Reg.No:212223240114
-## Name: Jeshwanth Kumar
-### Program:
+### Reg.No:212223240114
+### Name: Jeshwanth Kumar P
+
+## Procedure:
+### Step1: Install Required Libraries
+### Step2: Download YOLOv4 Weights and Configuration Files
+### Step3: Load YOLOv4 in Python
+### Step4: Set Up the Video Stream
+### Step5: Adjust Confidence and Non-Max Suppression Thresholds
+### Step6: Running the Script
+## Program:
 ```P
 import cv2
 import numpy as np
@@ -84,8 +92,10 @@ cap.release()
 cv2.destroyAllWindows()
 
 ```
-### Output:
+## Output:
 ![image](https://github.com/user-attachments/assets/bc6d5a9f-b89c-48dd-b867-03509951e4fb)
 
+## Result:
+The real-time object detection system using Python and YOLOv4 successfully detected and classified objects from live video feed with accurate bounding boxes and labels in real time.
 
 
